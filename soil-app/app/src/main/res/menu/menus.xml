@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/read_time_data_menu_item"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="实时数据" />
+    <item
+        android:id="@+id/history_data_view_menu_item"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="历史记录" />
+    <item
+        android:id="@+id/data_statistic_analysis_menu_item"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="统计分析" />
+    <item
+        android:id="@+id/exit_menu_item"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="退出登录" />
+</menu>

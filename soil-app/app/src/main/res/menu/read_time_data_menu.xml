@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/device_1"
+        android:title="@string/device_1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/device_2"
+        android:title="@string/device_2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/real_time_data_menus_item"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menus"
+        app:showAsAction="ifRoom" />
+</menu>

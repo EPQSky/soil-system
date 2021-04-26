@@ -1,0 +1,18 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: auth
+  cloud:
+    nacos:
+      server-addr: 119.45.248.45:8848
+  redis:
+    host: 119.45.248.45
+    database: 0
+    port: 6379
+    password: 123
+  datasource:
+    url: jdbc:mysql://119.45.248.45:3306/soil?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 1310
+    type: com.alibaba.druid.pool.DruidDataSource
