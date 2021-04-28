@@ -1,8 +1,0 @@
-icu\epq\soilInfo\service\ServiceApplication.class
-icu\epq\soilInfo\service\mapper\SoilMapper.class
-icu\epq\soilInfo\service\service\impl\SoilServiceImpl.class
-icu\epq\soilInfo\service\controller\SoilController.class
-icu\epq\soilInfo\service\service\ISoilService.class
-icu\epq\soilInfo\service\wrapper\SoilWrapper.class
-icu\epq\soilInfo\service\config\MybatisPlusConfig.class
-icu\epq\soilInfo\service\utils\BeanUtil.class

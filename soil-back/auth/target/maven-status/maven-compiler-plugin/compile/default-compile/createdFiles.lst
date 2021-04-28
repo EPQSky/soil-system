@@ -1,7 +1,0 @@
-icu\epq\soilInfo\auth\mapper\UserMapper.class
-icu\epq\soilInfo\auth\controller\LogController.class
-icu\epq\soilInfo\auth\service\impl\UserServiceImpl.class
-icu\epq\soilInfo\auth\AuthApplication.class
-icu\epq\soilInfo\auth\service\IUserService.class
-icu\epq\soilInfo\auth\entity\User.class
-icu\epq\soilInfo\auth\util\JwtUtils.class

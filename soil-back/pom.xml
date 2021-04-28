@@ -26,8 +26,8 @@
         <nacos.version>1.4.1</nacos.version>
         <dubbo.version>2.7.8</dubbo.version>
 
-        <spring.boot.version>2.3.2.RELEASE</spring.boot.version>
-        <spring.cloud.version>Hoxton.SR8</spring.cloud.version>
+        <spring.boot.version>2.3.10.RELEASE</spring.boot.version>
+        <spring.cloud.version>Hoxton.SR11</spring.cloud.version>
 
         <lombok.version>1.18.18</lombok.version>
 
